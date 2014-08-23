@@ -1,4 +1,4 @@
 cs2101
 ======
 
-This will store all our CS2101 documents.
+This is the CS2101 project repository.
